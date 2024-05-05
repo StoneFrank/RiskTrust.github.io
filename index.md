@@ -20,6 +20,8 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 - **Sep 2021 - Jun 2024:** Shanghai Academy of Social Sciences (Cyberspace Governance)
 
+---
+
 - **2021年9月至2024年6月：** 上海社会科学院（网络空间治理）
 
 ---
@@ -31,6 +33,8 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - China-U.S.-Europe Digital Relationship
 - Risk and Trust
 - [My latest research proposal (Dec 2023)](https://caihanlin.com/file/proposal-2023.pdf)🔗
+
+---
 
 - 数字风险治理
 - 新兴技术信任建设
