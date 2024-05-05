@@ -3,12 +3,17 @@ layout: page
 ---
 
 # About Me
+# 关于我
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="%E5%90%B4%E5%AE%87%E6%98%82/Downloads/4%E7%85%A7%E7%89%87.jpg.html" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+Here is **WU Yuang (Frank, 吴宇昂)**.
 
 I am a senior undergrad majoring in **EECS** at Fuzhou University and Maynooth University (Combined degrees). Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at Cambridge University. Recently, I have been selected as an **AAAI UC Scholar**.
+
+I am
+
+我是一名上海社会科学院的硕士研究生，主要研究网络空间中的国际关系问题。我目前主要感兴趣的领域有数字风险治理，中美欧数字信任建设，新兴技术风险与信任建设。我的硕士研究生导师为[鲁传颖](https://www.siis.org.cn/expertEn/189.jspx)。
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
 
