@@ -2,9 +2,7 @@
 layout: page
 ---
 
-# About Me
-
-# 关于我
+# About Me 关于我
 
 <img src="%E5%90%B4%E5%AE%87%E6%98%82/Downloads/4%E7%85%A7%E7%89%87.jpg.html" class="floatpic" width="360" height="480">
 
@@ -18,9 +16,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 如果您对我的任何方面感兴趣，我很乐意与您交谈和合作，请发送电子邮件至 - *frank_wu_basic[at]outlook[dot]com*
 
-## Academic Background
-
-## 教育背景
+## Academic Background 教育背景
 
 - **Sep 2021 - Jun 2024:** Shanghai Academy of Social Sciences (Cyberspace Governance)
 
@@ -28,9 +24,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ---
 
-## Research Interests
-
-## 研究兴趣
+## Research Interests 研究兴趣
 
 - Digital Risk Governance
 - Emerging Technologies Trust Building
@@ -53,7 +47,7 @@ Secondly, I am also following the latest developments of the US AI License and t
 
 ---
 
-## News and Updates
+## Updates 更新
 
 
 
